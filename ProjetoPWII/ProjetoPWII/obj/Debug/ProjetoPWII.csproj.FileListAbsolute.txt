@@ -1,0 +1,8 @@
+C:\Users\rnunes\Desktop\José Vinicius\ETEC\LIÇÕES\Projeto PWII\ProjetoPWII\ProjetoPWII\bin\Debug\ProjetoPWII.exe.config
+C:\Users\rnunes\Desktop\José Vinicius\ETEC\LIÇÕES\Projeto PWII\ProjetoPWII\ProjetoPWII\bin\Debug\ProjetoPWII.exe
+C:\Users\rnunes\Desktop\José Vinicius\ETEC\LIÇÕES\Projeto PWII\ProjetoPWII\ProjetoPWII\bin\Debug\ProjetoPWII.pdb
+C:\Users\rnunes\Desktop\José Vinicius\ETEC\LIÇÕES\Projeto PWII\ProjetoPWII\ProjetoPWII\obj\Debug\ProjetoPWII.csproj.AssemblyReference.cache
+C:\Users\rnunes\Desktop\José Vinicius\ETEC\LIÇÕES\Projeto PWII\ProjetoPWII\ProjetoPWII\obj\Debug\ProjetoPWII.csproj.SuggestedBindingRedirects.cache
+C:\Users\rnunes\Desktop\José Vinicius\ETEC\LIÇÕES\Projeto PWII\ProjetoPWII\ProjetoPWII\obj\Debug\ProjetoPWII.csproj.CoreCompileInputs.cache
+C:\Users\rnunes\Desktop\José Vinicius\ETEC\LIÇÕES\Projeto PWII\ProjetoPWII\ProjetoPWII\obj\Debug\ProjetoPWII.exe
+C:\Users\rnunes\Desktop\José Vinicius\ETEC\LIÇÕES\Projeto PWII\ProjetoPWII\ProjetoPWII\obj\Debug\ProjetoPWII.pdb
